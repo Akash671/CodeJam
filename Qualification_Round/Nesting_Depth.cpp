@@ -56,7 +56,7 @@ int main()
     {
     	string s;
     	cin>>s;
-    	cout<<"Case #"<<t<<": ";
+    	cout<<"Case #"<<i<<": ";
     	solve(s);
     }
 	return 0;
