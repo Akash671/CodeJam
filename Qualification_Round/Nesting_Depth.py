@@ -3,6 +3,7 @@ author            :   Akash kumar
 codejam username  :   Akash@1996
 """
 
+
 T=1
 for _ in range(int(input())):
     s=str(input())
